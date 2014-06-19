@@ -9,7 +9,8 @@ scoreGismu
 
 3. run "perl scoreGismu.pl input.txt". But under Windows you may just run "scoreGismu.bat"
 
+Be sure that AlgorithmDiff is installed.
+
 On Linux:
-cd /home/user/scoreGismu/
 perl scoreGismu.pl input.txt
 
